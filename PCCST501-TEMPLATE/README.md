@@ -4,9 +4,9 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name |Goutham Krishna |
+| Register Number |VJC24CS095|
+| GitHub Username |gouthamx2|
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
